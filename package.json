@@ -2,7 +2,7 @@
    "name": "react-js",
    "version": "0.1.0",
    "private": true,
-   "homepage": "https://muhabdillah.github.io/creative-academy-react-dasr-web-sekolah/",
+   "homepage": "https://muhabdillah.github.io/creative-academy-react-dasr-web-sekolah",
    "dependencies": {
       "@testing-library/jest-dom": "^5.14.1",
       "@testing-library/react": "^13.0.0",
@@ -21,7 +21,7 @@
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
-      "predeploy": "yarn run build",
+      "predeploy": "npm run build",
       "deploy": "gh-pages -d build"
    },
    "eslintConfig": {
