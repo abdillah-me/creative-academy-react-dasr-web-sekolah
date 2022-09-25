@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/creative-academy-react-dasr-web-sekolah/static/css/main.29cd549e.css",
+    "main.js": "/creative-academy-react-dasr-web-sekolah/static/js/main.87dc078a.js",
+    "static/js/787.1cd43ffb.chunk.js": "/creative-academy-react-dasr-web-sekolah/static/js/787.1cd43ffb.chunk.js",
+    "static/media/Hero2.jpeg": "/creative-academy-react-dasr-web-sekolah/static/media/Hero2.0fcc979e4e6279005809.jpeg",
+    "static/media/Hero1.jpeg": "/creative-academy-react-dasr-web-sekolah/static/media/Hero1.9519cff1f725301a780c.jpeg",
+    "static/media/Hero3.jpeg": "/creative-academy-react-dasr-web-sekolah/static/media/Hero3.c2d8d02c3219d73af86d.jpeg",
+    "static/media/logoSMK.png": "/creative-academy-react-dasr-web-sekolah/static/media/logoSMK.c829b9515b7c08c9cb72.png",
+    "index.html": "/creative-academy-react-dasr-web-sekolah/index.html",
+    "main.29cd549e.css.map": "/creative-academy-react-dasr-web-sekolah/static/css/main.29cd549e.css.map",
+    "main.87dc078a.js.map": "/creative-academy-react-dasr-web-sekolah/static/js/main.87dc078a.js.map",
+    "787.1cd43ffb.chunk.js.map": "/creative-academy-react-dasr-web-sekolah/static/js/787.1cd43ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.87dc078a.js"
+  ]
+}
